@@ -37,10 +37,12 @@
 }
 
 .actions .button--alt {
-	color: #8a2b06;
+	color: #000000;
+	
 }
 
 .actions .button {
-	background-color: #8a2b06;
-	color: white;
+	background-color: #00070a;
+	color: rgb(0, 213, 251);
+
 }
