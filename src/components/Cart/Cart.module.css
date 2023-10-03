@@ -3,7 +3,7 @@
 	margin: 0;
 	padding: 0;
 	max-height: 20rem;
-	overflow: auto;
+	overflow: scroll;
 }
 
 .total {
@@ -38,11 +38,9 @@
 
 .actions .button--alt {
 	color: #000000;
-	
 }
 
 .actions .button {
 	background-color: #00070a;
 	color: rgb(0, 213, 251);
-
 }
